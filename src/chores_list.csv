@@ -1,0 +1,18 @@
+name,frequency,offset,assigment
+vacuum,weekly,0,Any
+laundry,weekly,0,Elena
+change sheets,weekly,0,Any
+sweep,weekly,0,Any
+bathroom,weekly,0,Any
+clean kitchen,weekly,0,Any
+replace litter,monthly,0,All
+clean microwave,monthly,0,Any
+clean stove burners,monthly,0,Any
+clean toaster,monthly,0,Any
+clean out fridge food,monthly,0,All
+clean cars,bimonthly,0,All
+clean closets,bimonthly,0,All
+snake shower drain,semiannully,6,Any
+clean fridge,semiannully,6,Any
+clean windows,semiannually,3,Any
+sweep garage,semiannually,3,Any
